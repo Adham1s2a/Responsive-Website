@@ -1,0 +1,5 @@
+####################################   Analyzing the project and setting the stage   #########################################
+ Analyzing the design and take the first look,
+
+ first we will start with the base
+ 
