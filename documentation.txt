@@ -2,4 +2,22 @@
  Analyzing the design and take the first look,
 
  first we will start with the base
- 
+ we use a a ready template form :https://piccalil.li/blog/a-modern-css-reset 
+ we create the properities of the 
+ color
+ font family
+ font wieight
+ font size
+
+ and we create some of a handy props 
+ like fs-body and fs-primay-heading ...
+
+ for the the font size our base is the mobile size(mobile first)
+ so we create a media query for the desktop size
+ and we set the font size to the desktop size
+
+at last we create some utility classes for the
+ text,background,fontweight,font size 
+
+
+
