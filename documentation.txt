@@ -20,4 +20,16 @@ at last we create some utility classes for the
  text,background,fontweight,font size 
 
 
+#############################################   Writing the HTML   ###############################################################
 
+
+in this section we will write the html of the project
+we split the project in different sections
+header
+main    
+footer
+
+
+##############################################   General Styling   ################################################################
+
+ 
