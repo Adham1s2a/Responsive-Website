@@ -32,4 +32,20 @@ footer
 
 ##############################################   General Styling   ################################################################
 
- 
+starting the general utility classes
+1-body we assign the color and the font family and font size
+2- container we make two properities for max width and padding 
+   and then we make the min-width for to be the min of  max width prop or 100% and we subtract the padding 
+   with margin-inline auto 
+3- for even columns we use grid to split the row into equal columns and apply that for the bigger screen using media query
+4- we add props for the space sizes and make the required classes to use them and apply them on the sections
+5- change high line for the heading texts
+6- make the style for the button and take into our consideration when we focus in this button and we deal with data type
+
+
+
+
+
+
+
+
